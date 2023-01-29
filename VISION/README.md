@@ -2,7 +2,4 @@
 
 ## VISION SYSTEM
 
-![VISION SYSTEM|width=200px](vision_system.png)
-
-
-<img src="vision_system.png" width="100">
+<img src="vision_system.png" width="700" alt="Brain-Blueprints Vision System">
