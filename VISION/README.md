@@ -2,6 +2,6 @@
 
 ## VISION SYSTEM
 
-![VISION SYSTEM](vision_system.png){: width="50%"}
+![VISION SYSTEM](vision_system.png){: width="100px"}
 
 
